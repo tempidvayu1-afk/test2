@@ -1,0 +1,30 @@
+UserID: 937173294 | Time: 2025-12-14 14:49:30.436368 | Command: /bgmi | Target: 1 | Port: 1 | Time: 1
+Username: @Vayu2k
+Target: 1
+Port: 1
+Time: 1
+
+UserID: 937173294 | Time: 2025-12-14 14:52:32.699667 | Command: /bgmi | Target: 1 | Port: 1 | Time: 1
+Username: @Vayu2k
+Target: 1
+Port: 1
+Time: 1
+
+UserID: 937173294 | Time: 2025-12-14 14:53:12.963631 | Command: /bgmi | Target: 20.198.74.110 | Port: 26383 | Time: 10
+Username: @Vayu2k
+Target: 20.198.74.110
+Port: 26383
+Time: 10
+
+UserID: 937173294 | Time: 2025-12-14 15:06:50.197494 | Command: /bgmi | Target: 20.198.74.110 | Port: 26383 | Time: 10
+Username: @Vayu2k
+Target: 20.198.74.110
+Port: 26383
+Time: 10
+
+UserID: 937173294 | Time: 2025-12-14 15:08:10.595667 | Command: /bgmi | Target: 20.198.74.110 | Port: 26383 | Time: 10
+Username: @Vayu2k
+Target: 20.198.74.110
+Port: 26383
+Time: 10
+
